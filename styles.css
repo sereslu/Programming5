@@ -1,0 +1,15 @@
+#chart_div{
+		border:dotted 8px salmon;
+}
+.col-md-4{
+	background-color:salmon;
+}
+.col-md-8{
+	background-color:pink;
+}
+.col-md-1{
+	background-color:salmon;
+}
+.col-md-6{
+	background-color:pink;
+}
